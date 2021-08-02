@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Rahmad3067/puissance4/static/css/main.23521c43.chunk.css",
+    "main.js": "/Rahmad3067/puissance4/static/js/main.13bd4abf.chunk.js",
+    "main.js.map": "/Rahmad3067/puissance4/static/js/main.13bd4abf.chunk.js.map",
+    "runtime-main.js": "/Rahmad3067/puissance4/static/js/runtime-main.2b103e43.js",
+    "runtime-main.js.map": "/Rahmad3067/puissance4/static/js/runtime-main.2b103e43.js.map",
+    "static/css/2.3e35cbb6.chunk.css": "/Rahmad3067/puissance4/static/css/2.3e35cbb6.chunk.css",
+    "static/js/2.2183bfce.chunk.js": "/Rahmad3067/puissance4/static/js/2.2183bfce.chunk.js",
+    "static/js/2.2183bfce.chunk.js.map": "/Rahmad3067/puissance4/static/js/2.2183bfce.chunk.js.map",
+    "index.html": "/Rahmad3067/puissance4/index.html",
+    "static/css/2.3e35cbb6.chunk.css.map": "/Rahmad3067/puissance4/static/css/2.3e35cbb6.chunk.css.map",
+    "static/css/main.23521c43.chunk.css.map": "/Rahmad3067/puissance4/static/css/main.23521c43.chunk.css.map",
+    "static/js/2.2183bfce.chunk.js.LICENSE.txt": "/Rahmad3067/puissance4/static/js/2.2183bfce.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Rahmad3067/puissance4/static/media/animated-gifs-of-fighting-game-backgrounds-19.dbd07b12.gif",
+    "static/media/musicBackground.ef8d14ea.mp3": "/Rahmad3067/puissance4/static/media/musicBackground.ef8d14ea.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b103e43.js",
+    "static/css/2.3e35cbb6.chunk.css",
+    "static/js/2.2183bfce.chunk.js",
+    "static/css/main.23521c43.chunk.css",
+    "static/js/main.13bd4abf.chunk.js"
+  ]
+}
